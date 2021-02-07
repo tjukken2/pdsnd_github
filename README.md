@@ -15,4 +15,7 @@ The base idea is to create an interactive user experience included with gaining 
  The original data files is larger and the data files for this course has been cleaned. The original files can be downloaded from these location: <a href="https://www.divvybikes.com/system-data">Chicago</a>, <a href="https://www.citibikenyc.com/system-data">New York City</a> and <a href="https://www.capitalbikeshare.com/system-data">Washington</a>.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+ <ul>
+ <li>For a great course and learning experience - <a href="https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104">Programming for data science</a></li>
+ <li>For sharing the data to this project - <a href="https://www.motivateco.com">Motivate</a></li>
+ </ul>
