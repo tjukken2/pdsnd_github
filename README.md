@@ -16,8 +16,13 @@ The base idea is to create an interactive user experience included with gaining 
 
 ### Usage
  You need to have Python version >= 3.6 installed to run this program.</br>
- The program use the following libraries: time, pandas (version 0.22) and numpy
- To run this program in your terminal: python3 bikeshare.py
+ The program use the following libraries:
+ <ul>
+ <li>time</li>
+ <li>pandas (version 0.22)</li>
+ <li>numpy</li>
+ </ul>
+ To run this program in your terminal: `python3 bikeshare.py`
 
 ### Credits
  <ul>
