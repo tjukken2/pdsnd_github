@@ -61,7 +61,7 @@ def load_data(city, month, day):
 
     # extract month and day of week from Start Time to create new columns
     df['month'] = df['Start Time'].dt.month
-    df['day_of_week'] = df['Start Time'].dt.weekday_name #(day_name() = weekday_name in earlier Pandas versions)
+    df['day_of_week'] = df['Start Time'].dt.weekday_name 
     df['hour'] = df['Start Time'].dt.hour 
 
     # Remove unnecessary column from dataframe (increase speed for calculation?)
