@@ -14,6 +14,11 @@ The base idea is to create an interactive user experience included with gaining 
 
  The original data files is larger and the data files for this course has been cleaned. The original files can be downloaded from these location: <a href="https://www.divvybikes.com/system-data">Chicago</a>, <a href="https://www.citibikenyc.com/system-data">New York City</a> and <a href="https://www.capitalbikeshare.com/system-data">Washington</a>.
 
+### Usage
+ You need to have Python version >= 3.6 installed to run this program.</br>
+ The program use the following libraries: time, pandas (version 0.22) and numpy
+ To run this program in your terminal: python3 bikeshare.py
+
 ### Credits
  <ul>
  <li>For a great course and learning experience - <a href="https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104">Programming for data science</a></li>
